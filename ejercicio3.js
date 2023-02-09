@@ -17,7 +17,7 @@ for (let i = 0; i < valores.length; i++) {
       resta -= elemento;
     }
     multiplicacion *= elemento;
-    division *= elemento; //arreglar esto porque esta mal
+    division *= elemento; 
   }
 }
 
